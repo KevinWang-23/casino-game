@@ -77,7 +77,7 @@ public:
     
     void displayWelcome() {
         std::cout << "========================================\n";
-        std::cout << "    WELCOME TO Kevin's CASINO!       \n";
+        std::cout << "    WELCOME TO KEVIN'S CASINO!       \n";
         std::cout << "========================================\n";
         std::cout << "Rules:\n";
         std::cout << "- You start with $" << STARTING_MONEY << "\n";
